@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "fullName": "A.A. Nithi Pramesti",
+      "username": "nithipramesti",
+      "email": "nithipramesti1508@gmail.com",
+      "password": "passwordnithi",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "fullName": "User Two",
+      "username": "user2",
+      "email": "usertwo@mail.com",
+      "password": "ppp12345",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "Bill Gates",
+      "username": "billgates",
+      "email": "bill@mail.com",
+      "password": "bbbiilll123",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "Bella Ciao",
+      "username": "bellaciao",
+      "email": "bella@mail.com",
+      "password": "obella2000",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "John Doe",
+      "username": "johndoe",
+      "email": "johnd@mail.com",
+      "password": "12345uio",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "Gery Salut",
+      "username": "gerysalut",
+      "email": "gerysalut@mail.com",
+      "password": "garyyyy",
+      "role": "user",
+      "id": 6
+    }
+  ],
+  "transactions": [],
+  "products": [],
+  "carts": []
+}
