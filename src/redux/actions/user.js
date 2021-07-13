@@ -17,7 +17,7 @@ export const registerUser = ({ fullName, username, email, password }) => {
           type: "USER_LOGIN",
           payload: result.data,
         });
-        alert("A user registered successfully");
+        alert("Registered successfully");
       })
       .catch((err) => {
         alert("Register failed!");
@@ -36,6 +36,9 @@ export const loginUser = ({ username, password }) => {
         if (result.data.length) {
           if (password === result.data[0].password) {
             delete result.data[0].password;
+
+            console.log("userLogin");
+            console.log(result.data[0]);
 
             localStorage.setItem(
               "userDataEmmerce",
@@ -83,11 +86,15 @@ export const userKeepLogin = (userData) => {
       },
     })
       .then((result) => {
+        console.log("userKeepLogin");
+        console.log(userData);
+        delete result.data[0].password;
+
         localStorage.setItem("userDataEmmerce", JSON.stringify(result.data[0]));
 
         dispatch({
           type: "USER_LOGIN",
-          payload: userData[0],
+          payload: userData,
         });
       })
       .catch((err) => {

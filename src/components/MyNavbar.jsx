@@ -62,6 +62,11 @@ class MyNavbar extends React.Component {
             )}
           </Nav>
         </Navbar>
+
+        <button
+          onClick={() => console.log(this.props.userGlobal.username)}
+          className="btn btn-primary mt-2"
+        ></button>
       </div>
     );
   }
