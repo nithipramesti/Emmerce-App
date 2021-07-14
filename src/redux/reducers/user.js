@@ -8,7 +8,7 @@ const init_state = {
   storageIsChecked: false,
 };
 
-export default (state = init_state, action) => {
+const reducer = (state = init_state, action) => {
   switch (action.type) {
     case "USER_LOGIN":
       return { ...state, ...action.payload, storageIsChecked: true };
@@ -26,3 +26,5 @@ export default (state = init_state, action) => {
       return state;
   }
 };
+
+export default reducer;
