@@ -1,0 +1,9 @@
+.admin-product-image {
+  height: 150px;
+}
+
+.admin-product-description {
+  width: 400px;
+  font-size: 11px;
+  text-align: left;
+}

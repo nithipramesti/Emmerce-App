@@ -9,11 +9,11 @@
       "id": 1
     },
     {
-      "fullName": "User Two",
-      "username": "user2",
-      "email": "usertwo@mail.com",
-      "password": "ppp12345",
-      "role": "user",
+      "fullName": "Super Admin",
+      "username": "superadmin",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "role": "admin",
       "id": 2
     },
     {
@@ -53,10 +53,10 @@
   "products": [
     {
       "id": 1,
-      "productName": "Nike Dri-FIT Swoosh Run",
-      "price": 30,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f16f3b69-e4fa-449b-823a-e11788649234/dri-fit-swoosh-run-running-top-LglrTV.png",
-      "description": "Get outside with a new spin on a running essential.The Nike Swoosh Run Top has lightweight fabric with an intertwined graphic.Side vents keep you moving as you push through your miles.It's made from 100% recycled polyester fibres.This product is made from 100% recycled polyester fibres.",
+      "productName": "Nike Dri-FIT Giannis Freak",
+      "price": 27,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/591b26b7-804f-46db-94ed-afb0b4958ab4/dri-fit-giannis-freak-printed-basketball-t-shirt-sGWjGf.png",
+      "description": "Hoops sensation Giannis Antetokounmpo goes fast at both ends of the court. The Nike Dri-FIT Giannis Freak T-Shirt goes fast, too. Get your hands on one while you can.",
       "category": "shirts"
     },
     {
@@ -101,75 +101,67 @@
     },
     {
       "id": 7,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
-      "category": "shoes"
+      "productName": "Nike Men's Basketball T-Shirt",
+      "price": 34,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f2339887-24ab-4cf8-8aca-f23cc2e24a09/basketball-t-shirt-ss8Wlb.png",
+      "description": "The Nike Dri-FIT One Luxe Leggings are super versatile and made with silky soft fabric that you can't see through.They keep you confidently covered for any workout—or any time.Part of the Nike Luxe line, they're a super-comfortable, lightweight second skin you'll want to live in.They're made from at least 50% recycled polyester fibres.This product is made from at least 50% recycled polyester fibres.",
+      "category": "shirts"
     },
     {
       "id": 8,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
+      "productName": "Nike One Luxe",
+      "price": 65,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f4ffa3a2-3fc9-4e34-91dc-b2dfebee13e0/one-luxe-mid-rise-leggings-S5cp94.png",
       "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
-      "category": "shoes"
+      "category": "pants"
     },
     {
       "id": 9,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
+      "productName": "Nike Air Max 90 Unlocked By You",
+      "price": 157,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2487b13b-03e8-4e0f-ac6e-c4ece76ad30b/custom-nike-air-max-90-unlocked-by-you.png",
+      "description": "The Nike Air Max 90 Unlocked By You brings all the elements of the classic together in a seamless design experience that gives you control of every carefully crafted detail. Performance and sophistication are combined for a luxurious ride.",
       "category": "shoes"
     },
     {
       "id": 10,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
+      "productName": "NikeCourt Legacy",
+      "price": 45,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8e0d2d0d-1e5c-4d9e-9aaf-64722d46db9e/nikecourt-legacy-older-shoe-dBCJpZ.png",
+      "description": "The NikeCourt Legacy serves up style rooted in tennis culture. They are durable and comfy with heritage stitching and a retro Swoosh. When you pull these on—it's game, set, match.",
       "category": "shoes"
     },
     {
       "id": 11,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
+      "productName": "Nike PG 5 EP",
+      "price": 112,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0a5c55aa-07cd-4d9c-b1fb-36cdd4ff5c6f/pg-5-ep-basketball-shoe-Gk5ZV1.png",
+      "description": "Paul George has an effortlessly smooth, reliably steady game. He takes his time, but he's always well-positioned to make the extra pass, cut through the lane, or nail a pull-up jumper. The PG 5 EP combines the agile low-top profile Paul likes with flexible Nike Air Dot Weld Strobel cushioning. The full-length Air unit is stitched directly to the upper, bringing the plush, bouncy cushioning right up under the foot—perfect for keeping PG feeling like he's moving on clouds. This EP version uses an extra-durable outsole that's ideal for outdoor courts.",
       "category": "shoes"
     },
     {
       "id": 12,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
-      "category": "shoes"
+      "productName": "Nike Dri-FIT Swoosh Run",
+      "price": 30,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f16f3b69-e4fa-449b-823a-e11788649234/dri-fit-swoosh-run-running-top-LglrTV.png",
+      "description": "Get outside with a new spin on a running essential.The Nike Swoosh Run Top has lightweight fabric with an intertwined graphic.Side vents keep you moving as you push through your miles.It's made from 100% recycled polyester fibres.This product is made from 100% recycled polyester fibres.",
+      "category": "shirts"
     },
     {
-      "id": 13,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
-      "category": "shoes"
+      "productName": "F.C. Barcelona Strike",
+      "price": 38,
+      "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/1d3658de-d9ab-4b44-994f-d43549eeb89d/fc-barcelona-strike-short-sleeve-football-top-WzHBlF.png",
+      "description": "The F.C. Barcelona Strike Top features design details specifically tailored for football's rising stars.A slim, streamlined fit ensures that nothing comes between you and the ball, and sweat-wicking fabric helps keep you cool and composed while fine-tuning your skills.This product is made from at least 50% recycled polyester fibres.",
+      "category": "shirts",
+      "id": 16
     },
     {
-      "id": 14,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
-      "category": "shoes"
-    },
-    {
-      "id": 15,
-      "productName": "Nike Phantom GT2 Elite FG",
-      "price": 250,
-      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
-      "description": "1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Elite FG lets you go on the offensive with a low-profile design that's reinvented for attackers.The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops.",
-      "category": "shoes"
+      "productName": "Nike Flex Plus",
+      "price": 50,
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/849720c4-55bb-4d51-8944-a79b4b4f8cb8/flex-plus-younger-shoe-mMnx43.png",
+      "description": "On your marks! The Nike Flex Plus is built for kids who want to run and play all day. With a flexible feel, super-soft cushioning and an easy slip-on design (bye-bye laces!), they're ready to zoom around the playground.",
+      "category": "shoes",
+      "id": 17
     }
   ],
   "carts": []
