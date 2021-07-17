@@ -18,5 +18,5 @@
 
 .product-card img {
   object-fit: contain;
-  height: 250px;
+  width: 100%;
 }

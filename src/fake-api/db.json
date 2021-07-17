@@ -49,7 +49,160 @@
       "id": 6
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "userId": 1,
+      "recepientName": "",
+      "recepientAddress": "",
+      "totalPrice": 464.1,
+      "totalPayment": 0,
+      "transactionDate": "17-7-2021",
+      "transactionItems": [
+        {
+          "userId": 1,
+          "productId": 6,
+          "price": 76,
+          "productName": "Nike Air Max Bella TR 4",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1a106bdf-03bc-4f89-af2a-c60e77af40fe/air-max-bella-tr-4-training-shoe-fJ0N8D.png",
+          "quantity": 2,
+          "id": 1
+        },
+        {
+          "userId": 1,
+          "productId": 12,
+          "price": 30,
+          "productName": "Nike Dri-FIT Swoosh Run",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f16f3b69-e4fa-449b-823a-e11788649234/dri-fit-swoosh-run-running-top-LglrTV.png",
+          "quantity": 1,
+          "id": 2
+        },
+        {
+          "userId": 1,
+          "productId": 8,
+          "price": 65,
+          "productName": "Nike One Luxe",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f4ffa3a2-3fc9-4e34-91dc-b2dfebee13e0/one-luxe-mid-rise-leggings-S5cp94.png",
+          "quantity": 4,
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "recepientName": "Tata",
+      "recepientAddress": "Bali",
+      "totalPrice": 381.15,
+      "totalPayment": 382,
+      "transactionDate": "17-7-2021",
+      "transactionItems": [
+        {
+          "userId": 1,
+          "productId": 1,
+          "price": 27,
+          "productName": "Nike Dri-FIT Giannis Freak",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/591b26b7-804f-46db-94ed-afb0b4958ab4/dri-fit-giannis-freak-printed-basketball-t-shirt-sGWjGf.png",
+          "quantity": 2,
+          "id": 1
+        },
+        {
+          "userId": 1,
+          "productId": 9,
+          "price": 157,
+          "productName": "Nike Air Max 90 Unlocked By You",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2487b13b-03e8-4e0f-ac6e-c4ece76ad30b/custom-nike-air-max-90-unlocked-by-you.png",
+          "quantity": 1,
+          "id": 2
+        },
+        {
+          "userId": 1,
+          "productId": 16,
+          "price": 38,
+          "productName": "F.C. Barcelona Strike",
+          "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/1d3658de-d9ab-4b44-994f-d43549eeb89d/fc-barcelona-strike-short-sleeve-football-top-WzHBlF.png",
+          "quantity": 4,
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "recepientName": "Nithi",
+      "recepientAddress": "Indonesia",
+      "totalPrice": 222.6,
+      "totalPayment": 223,
+      "transactionDate": "17-7-2021",
+      "transactionItems": [
+        {
+          "userId": 1,
+          "productId": 5,
+          "price": 25,
+          "productName": "Liverpool FC",
+          "productImage": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/b905fc32-d3ec-4ffb-af0f-30483dc71f8d/liverpool-fc-football-t-shirt-s7X2q9.png",
+          "quantity": 4,
+          "id": 2
+        },
+        {
+          "userId": 1,
+          "productId": 11,
+          "price": 112,
+          "productName": "Nike PG 5 EP",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0a5c55aa-07cd-4d9c-b1fb-36cdd4ff5c6f/pg-5-ep-basketball-shoe-Gk5ZV1.png",
+          "quantity": 1,
+          "id": 3
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "recepientName": "Saya",
+      "recepientAddress": "Dunia",
+      "totalPrice": 1050,
+      "totalPayment": 1050,
+      "transactionDate": "17-7-2021",
+      "transactionItems": [
+        {
+          "userId": 1,
+          "productId": 2,
+          "price": 250,
+          "productName": "Nike Phantom GT2 Elite FG",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/32094556-e1df-4682-8960-576163658441/phantom-gt2-elite-fg-football-boot-c2H8s5.png",
+          "quantity": 2,
+          "id": 1
+        },
+        {
+          "userId": 1,
+          "productId": 3,
+          "price": 75,
+          "productName": "Nike SB Force 58",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f408c63b-5b81-4f8e-a6f1-0606eeca3e48/sb-force-58-skate-shoe-HNFTvl.png",
+          "quantity": 1,
+          "id": 2
+        },
+        {
+          "userId": 1,
+          "productId": 6,
+          "price": 76,
+          "productName": "Nike Air Max Bella TR 4",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1a106bdf-03bc-4f89-af2a-c60e77af40fe/air-max-bella-tr-4-training-shoe-fJ0N8D.png",
+          "quantity": 5,
+          "id": 3
+        },
+        {
+          "userId": 1,
+          "productId": 10,
+          "price": 45,
+          "productName": "NikeCourt Legacy",
+          "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8e0d2d0d-1e5c-4d9e-9aaf-64722d46db9e/nikecourt-legacy-older-shoe-dBCJpZ.png",
+          "quantity": 1,
+          "id": 4
+        }
+      ],
+      "id": 4
+    }
+  ],
   "products": [
     {
       "id": 1,
