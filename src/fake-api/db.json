@@ -317,5 +317,33 @@
       "id": 17
     }
   ],
-  "carts": []
+  "carts": [
+    {
+      "userId": 1,
+      "productId": 1,
+      "price": 27,
+      "productName": "Nike Dri-FIT Giannis Freak",
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/591b26b7-804f-46db-94ed-afb0b4958ab4/dri-fit-giannis-freak-printed-basketball-t-shirt-sGWjGf.png",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "productId": 6,
+      "price": 76,
+      "productName": "Nike Air Max Bella TR 4",
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1a106bdf-03bc-4f89-af2a-c60e77af40fe/air-max-bella-tr-4-training-shoe-fJ0N8D.png",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "productId": 8,
+      "price": 65,
+      "productName": "Nike One Luxe",
+      "productImage": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f4ffa3a2-3fc9-4e34-91dc-b2dfebee13e0/one-luxe-mid-rise-leggings-S5cp94.png",
+      "quantity": 4,
+      "id": 3
+    }
+  ]
 }
